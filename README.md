@@ -1,3 +1,5 @@
 # Portofolio
 
-My personal portofolio, fork of https://github.com/itsron717/ParticleGround-Portfolio.git, hosted at www.kpatelis.info.
+My personal portofolio, hosted at www.kpatelis.info.
+
+Fork of https://github.com/itsron717/ParticleGround-Portfolio.git.
